@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="284" viewBox="0 0 920 284" role="img" aria-labelledby="baslik aciklama">
+  <title id="baslik">MTT Sinema · Katalogdan gişeye</title>
+  <desc id="aciklama">Örnek akış: Kıyı filmi 95 dakika ve 120,50 TL. Mavi Salon'da 17.00–19.00 seansı planlanır. 7 numaralı koltuğun satışı günlük rapora 120,50 TL olarak yansır.</desc>
+  <defs>
+    <pattern id="delik" width="22" height="10" patternUnits="userSpaceOnUse"><rect x="2" y="2" width="11" height="6" rx="2" fill="#43625e"/></pattern>
+  </defs>
+  <rect width="920" height="284" rx="16" fill="#143937"/>
+  <rect x="24" y="14" width="872" height="10" fill="url(#delik)"/>
+  <g font-family="Segoe UI, DejaVu Sans, sans-serif">
+    <text x="35" y="55" fill="#bae2cf" font-size="13" font-weight="700" letter-spacing="2">MTT SİNEMA</text>
+    <text x="35" y="96" fill="#fff9ed" font-size="32" font-weight="700">Katalogdan gişeye</text>
+    <text x="884" y="91" text-anchor="end" fill="#d7e9df" font-size="14">Örnek gösterim fişi</text>
+    <rect x="30" y="116" width="860" height="144" rx="9" fill="#faf4e8"/>
+    <path d="M306 120v136m285-136v136" stroke="#aeafa0" stroke-width="2" stroke-dasharray="4 6"/>
+    <g fill="#326159" font-size="14" font-weight="700" letter-spacing="1">
+      <text x="52" y="149">01  /  FİLM KATALOĞU</text>
+      <text x="329" y="149">02  /  SEANS PROGRAMI</text>
+      <text x="614" y="149">03  /  BİLET GİŞESİ</text>
+    </g>
+    <g fill="#183432" font-size="24" font-weight="700">
+      <text x="52" y="193">Kıyı</text>
+      <text x="329" y="193">17:00 – 19:00</text>
+      <text x="614" y="193">Koltuk 07</text>
+    </g>
+    <g fill="#3b514d" font-size="16">
+      <text x="52" y="229">Dram · 95 dk · 120,50 TL</text>
+      <text x="329" y="229">Mavi Salon · 48 koltuk</text>
+      <text x="614" y="229">Günlük hasılat: 120,50 TL</text>
+    </g>
+  </g>
+  <g fill="#143937"><circle cx="30" cy="188" r="8"/><circle cx="890" cy="188" r="8"/></g>
+</svg>

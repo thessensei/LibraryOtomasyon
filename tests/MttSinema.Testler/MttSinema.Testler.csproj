@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+    <CodePage>65001</CodePage>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\MttSinema\MttSinema.csproj" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.119" />
+  </ItemGroup>
+</Project>

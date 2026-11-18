@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MttSinema", "src\MttSinema\MttSinema.csproj", "{34FE32FA-C8F2-48A1-8CC7-B8F72BDED497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MttSinema.Testler", "tests\MttSinema.Testler\MttSinema.Testler.csproj", "{3BBBAA56-AAC2-4B53-A779-5751375216B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34FE32FA-C8F2-48A1-8CC7-B8F72BDED497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FE32FA-C8F2-48A1-8CC7-B8F72BDED497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FE32FA-C8F2-48A1-8CC7-B8F72BDED497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FE32FA-C8F2-48A1-8CC7-B8F72BDED497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBBAA56-AAC2-4B53-A779-5751375216B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBBAA56-AAC2-4B53-A779-5751375216B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBBAA56-AAC2-4B53-A779-5751375216B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBBAA56-AAC2-4B53-A779-5751375216B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC74647-A727-4DA6-B1D2-8B2144BD6B38}
+	EndGlobalSection
+EndGlobal
